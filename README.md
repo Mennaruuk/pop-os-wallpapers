@@ -4,7 +4,7 @@ Fun takes at making wallpapers for [Pop!_OS](https://pop.system76.com/), the bea
 Currently, there are wallpapers for:
 - Supporters of Ukraine against the Russian aggression
 - Our Jewish friends
-- Comrades for Communism
+- Comrades for communism
 - Lovers of pastel
 
 ### Credit
