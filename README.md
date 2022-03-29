@@ -6,3 +6,8 @@ Currently, there are wallpapers for:
 - Our Jewish friends
 - Comrades for Communism
 - Lovers of pastel
+
+### Credit
+These works are derivatives of [pop_rainbow_background.svg](https://github.com/CorruptedArk/svg-wallpapers/blob/master/pop_rainbow_background.svg), by Noah Stanford, aka [@CorruptedArk](https://github.com/CorruptedArk), licensed under CC-BY-SA-4.0. Thank you, Noah!
+
+P.S. Make sure to check out their page. Seriously, they have a beautiful app to track your meds, FOSS chess games, and even a text decoder. Cool stuff!
